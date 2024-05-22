@@ -1,4 +1,4 @@
-# Collecting system metrics of requests to memcached server#
+# Collecting system metrics of requests to memcached server
 
 In this repo we are gathering system metrics using the perf command in linux and ingesting the time series data using Prometheus. Finally I created a dashboard using Grafana and plotted some insights. 
 
